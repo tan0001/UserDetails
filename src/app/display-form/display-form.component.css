@@ -1,0 +1,25 @@
+.title {
+    background-color: aqua;
+}
+
+.title h2 {
+    text-align: center;
+    color: grey;
+    font-size: xx-large;
+}
+
+mat-form-field {
+    display: flex;
+}
+
+.update {
+    background-color: green;
+}
+
+.discard {
+    background-color: red;
+}
+
+button {
+    margin: 50px;
+}
